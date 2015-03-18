@@ -1,0 +1,29 @@
+
+PeopleTools
+PeopleTools is the proprietary software development environment that was created by the PeopleSoft Corporation. 
+
+PeopleTools consist of 
+* Application Designer, 
+* Application Engine, 
+* Data Mover, 
+* PeopleCode and 
+* various other developer tools.
+
+The Application Designer is the core application used to create and customize PeopleSoft applications. 
+A brief list of its function:
+
+* Field Definition
+* Record Definition
+* PeopleCode
+* Page definition
+* Page Group (component) definition
+* Menu Definition
+* Business Process design (workflow)
+* Project definition.
+
+Applications can be built or customized in a development environment, then assembled into a project for migration to test and live environments.
+ 
+Phire is used to migrate and track all changes within PeopleSoft environments.
+ 
+Security Record Audit
+Tool that helps with Security Audit's of tables and records in PeopleSoft applications.
